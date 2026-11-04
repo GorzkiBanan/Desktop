@@ -20,4 +20,29 @@
 		</Button>
 
     </StackPanel>
+
+
+    <!-- LEKCJA -->
+    
+    <!-- </Grid.ColumnDefinitions>
+         <Label 
+            Grid.Row="0"
+            Grid.Column="1">Login</Label>
+         <TextBox
+            Name="txLogin"
+            Grid.Row="0"
+            Grid.Column="2"
+            Text="{Binding VLogin, UpdateSourceTrigger=PropertyChanged}"/>
+         <Label 
+            Grid.Row="1"
+            Grid.Column="1">Password</Label>
+         <TextBox
+            Name="txPass"
+            Grid.Row="1"
+            Grid.Column="2"/>
+         <Button
+            Grid.Row="2"
+            Grid.Column="1"
+            Grid.ColumnSpan="2"
+            Click="Btn_login">Login</Button>-->
 </Window>
